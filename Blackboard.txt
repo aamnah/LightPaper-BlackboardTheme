@@ -1,0 +1,82 @@
+#Author: Aamnah(https://github.com/aamnah/LightPaper-BlackboardTheme/)
+editor
+foreground: ecf0f1
+background: 0C1021
+caret: DB0A5B
+
+editor-selection
+foreground: ecf0f1
+background: 2c3e50
+
+H1
+foreground: ff6400
+font-size: 26px
+
+H2
+foreground: ff6400
+font-size: 24px
+
+H3
+foreground: ff6400
+font-size: 22px
+
+H4
+foreground: ff6400
+font-size: 20px
+
+H5
+foreground: ff6400
+font-size: 18px
+
+H6
+foreground: ff6400
+font-size: 17px
+
+EMPH
+foreground: 16a085
+font-style: italic
+
+STRONG
+foreground: 1BBC9B
+font-style: bold
+
+HRULE
+foreground: 586e75
+
+LIST_BULLET
+foreground: 8E44AD
+font-style: bold
+font-size: 20px
+
+LIST_ENUMERATOR
+foreground: e979d9
+
+LINK
+foreground: 79b6e8
+
+AUTO_LINK_URL
+foreground: 79b6e8
+
+AUTO_LINK_EMAIL
+foreground: 79b6e8
+
+REFERENCE
+foreground: 7f8c8d
+
+IMAGE
+foreground: BE90D4
+
+CODE
+foreground: ffff06
+
+VERBATIM
+foreground: F9BF3B
+
+HTML_ENTITY
+foreground: 6c71c4
+
+COMMENT
+foreground: 93a1a1
+
+BLOCKQUOTE
+foreground: DB0A5B
