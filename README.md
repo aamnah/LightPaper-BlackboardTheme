@@ -11,8 +11,12 @@ Clone the theme under `~/.lightpaper/Themes` and you are all set. You can select
 
 ### Colors
 Font: Lato Light 16.0  
+
 Background: 0C1021  
 Foreground: ecf0f1   
+Selection Background: 2c3e50
+Selection Foreground: ecf0f1
+
 Caret: DB0A5B  
 Headings: ff6400  
 Strong: 1BBC9B  
