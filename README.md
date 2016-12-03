@@ -23,9 +23,11 @@ Strong: 1BBC9B
 Emphasize: 16a085  
 Image: BE90D4  
 Link: 79b6e8  
-Reference: 7f8c8d  
+H Rule: DB0A5B  
+Reference: 99cc99  
 Code: ffff06  
 Verbatim: F9BF3B  
+Comment: 2c3e50  
 
 Links
 - [Adding Custom Themes to LightPaper](https://github.com/AwsmApps/LightPaper-Support/blob/master/Adding%20Custom%20Themes.md)
