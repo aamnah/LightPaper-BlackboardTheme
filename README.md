@@ -1,4 +1,4 @@
-# LightPaper-BlackboardTheme
+# Blackboard theme for LightPaper
 My custom theme for [LightPaper](http://lightpaper.42squares.in/) markdown editor for Mac.
 
 
