@@ -1,5 +1,5 @@
-# Custom theme for LightPaper
-My custom theme for [LightPaper](http://lightpaper.42squares.in/) markdown editor for Mac.
+# Blackboardish
+My custom theme for [LightPaper](http://lightpaper.42squares.in/) markdown editor for Mac. The colors are _heavily inspired_ from TextMate’s Blackboard syntax theme.
 
 
 ### Adding Custom Themes to LightPaper
