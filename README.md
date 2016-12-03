@@ -8,6 +8,8 @@ You can write your own themes or use already available themes by just dropping t
 
 Clone the theme under `~/.lightpaper/Themes` and you are all set. You can select a theme for the editor and/ or for the preview from the Preferences pane (`LightPaper>Preferences…` or `⌘,`). If two themes share the same name, only one of them will be picked. If you want to write your own theme, we recommend you to use one of the above mentioned themes as a template.
 
+### Screenshot
+![Screenshot](https://raw.githubusercontent.com/aamnah/LightPaper-CustomTheme/master/screenshot/LightPaperCustomTheme.png)
 
 ### Editor Styles
 Font: Lato Light 16.0  
