@@ -41,12 +41,12 @@ foreground: 1BBC9B
 font-style: bold
 
 HRULE
-foreground: 586e75
+foreground: DB0A5B
+font-style: bold
 
 LIST_BULLET
-foreground: 8E44AD
+foreground: e979d9
 font-style: bold
-font-size: 20px
 
 LIST_ENUMERATOR
 foreground: e979d9
@@ -61,7 +61,7 @@ AUTO_LINK_EMAIL
 foreground: 79b6e8
 
 REFERENCE
-foreground: 7f8c8d
+foreground: 99cc99
 
 IMAGE
 foreground: BE90D4
@@ -76,7 +76,8 @@ HTML_ENTITY
 foreground: 6c71c4
 
 COMMENT
-foreground: 93a1a1
+foreground: 2c3e50
 
 BLOCKQUOTE
 foreground: DB0A5B
+font-style: bold
