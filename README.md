@@ -10,18 +10,18 @@ Clone the theme under `~/.lightpaper/Themes` and you are all set. You can select
 
 
 ### Colors
-Font: Lato Light 16.0
-Background: 0C1021
-Foreground: ecf0f1
-Caret: DB0A5B
-Headings: ff6400
-Strong: 1BBC9B
-Emphasize: 16a085
-Image: BE90D4
-Link: 79b6e8
-Reference: 7f8c8d
-Code: ffff06
-Verbatim: F9BF3B
+Font: Lato Light 16.0  
+Background: 0C1021  
+Foreground: ecf0f1   
+Caret: DB0A5B  
+Headings: ff6400  
+Strong: 1BBC9B  
+Emphasize: 16a085  
+Image: BE90D4  
+Link: 79b6e8  
+Reference: 7f8c8d  
+Code: ffff06  
+Verbatim: F9BF3B  
 
 Links
 - [Adding Custom Themes to LightPaper](https://github.com/AwsmApps/LightPaper-Support/blob/master/Adding%20Custom%20Themes.md)
